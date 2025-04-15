@@ -9,4 +9,4 @@
 
 ### 목차 
 + <a href="https://github.com/pan6603/kakao-clone-coding/blob/main/layout/%ED%97%A4%EB%8D%94%20%EB%A9%94%EB%89%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md">헤더 메뉴 만들기</a>
-+ <a href="#">Dark모드와 Light모드 구현하기</a>
++ <a href="#">dark모드와 light모드 구현하기</a>
